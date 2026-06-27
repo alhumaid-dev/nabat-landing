@@ -28,6 +28,7 @@
 
 </head>
 
+
 <body>
   <picture>
     <source srcset="images/background.avif" type="image/avif">
@@ -42,6 +43,14 @@
     <div class="tag">PoS • WASM • Modular architecture</div>
   </div>
     -->
+
+    <script>
+      if ("serviceWorker" in navigator) {
+        window.addEventListener("load", () => {
+          navigator.serviceWorker.register("/service-worker.js");
+        });
+      }
+    </script>
 
 </body>
 
