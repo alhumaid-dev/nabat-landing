@@ -1,0 +1,24 @@
+Token key
+
+Creating token HBuAtteTUG89yDdZsUtaxaaRam6x17djikbnX1iGH44A under program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA
+
+Address:  HBuAtteTUG89yDdZsUtaxaaRam6x17djikbnX1iGH44A
+Decimals:  9
+
+Signature: 26XEJQpUkQmU3ZxMxLmNVqYmM1ppMzmE3pXn9HTCRxVNWTnB4oXnCvTNCL6pVnXsAxrjTzsPJ9QZdLLeSFmq5Thx
+--------------------------------------------------------------------
+
+SPL Token Mint
+  Address: HBuAtteTUG89yDdZsUtaxaaRam6x17djikbnX1iGH44A
+  Program: TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA
+  Supply: 1000000000000000000
+  Decimals: 9
+  Mint authority: HDMXUEVRczigkcGGuYqee34xwRHs8RtyC12UvEbdhXx
+  Freeze authority: (not set)
+
+--------------------------------------------------------------------
+
+
+
+
+
