@@ -5,7 +5,15 @@ const urlsToCache = [
   "/index.html",
   "/css/style.css",
   "/favicon/favicon.ico",
-  "/favicon/favicon.svg"
+  "/favicon/favicon.svg",
+
+  "/images/background.avif",
+  "/images/background.webp",
+  "/images/background.png",
+
+  "/favicon/apple-touch-icon.png",
+  "/favicon/web-app-manifest-192x192.png",
+  "/favicon/web-app-manifest-512x512.png"
 ];
 
 self.addEventListener("install", event => {
@@ -23,3 +31,6 @@ self.addEventListener("fetch", event => {
     })
   );
 });
+
+
+
